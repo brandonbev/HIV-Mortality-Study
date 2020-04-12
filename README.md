@@ -1,2 +1,2 @@
 # HIV-Mortality-Study
-project analyzing mortality rates of HIV overtime
+Use R to scrape, collect, clean, and analyze data from the CDC
